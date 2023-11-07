@@ -1,4 +1,4 @@
-<img src="https://fullstackbd.com/assets/images/logo-with-name.png" />
+<img src="https://fullstackbd.com/assets/images/logo-with-name.png" width="80" />
 
 # Git And Github
 
