@@ -230,6 +230,8 @@ $ git commit -m 'Commit message'
 
 2. **What are the different types of branches?**
 
+<img src="https://i.imgur.com/aHBHpVn_d.webp?maxwidth=760&fidelity=grand" />
+
 - Main branch: The main branch is the default branch when you create a repository. It is also known as the master branch. It should always contain the latest stable version of the code.
 - Development branch: A development branch is used to develop new features. It is created from the main branch and merged back into the main branch when the feature is complete.
 - Feature branch: A feature branch is used to develop a new feature. It is created from the main branch and merged back into the main branch when the feature is complete.
